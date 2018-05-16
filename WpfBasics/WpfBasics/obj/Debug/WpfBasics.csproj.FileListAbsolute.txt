@@ -1,0 +1,15 @@
+E:\Code\GitHub\Learning\WpfBasics\WpfBasics\bin\Debug\WpfBasics.exe.config
+E:\Code\GitHub\Learning\WpfBasics\WpfBasics\bin\Debug\WpfBasics.exe
+E:\Code\GitHub\Learning\WpfBasics\WpfBasics\bin\Debug\WpfBasics.pdb
+E:\Code\GitHub\Learning\WpfBasics\WpfBasics\obj\Debug\WpfBasics.csprojResolveAssemblyReference.cache
+E:\Code\GitHub\Learning\WpfBasics\WpfBasics\obj\Debug\MainWindow.g.cs
+E:\Code\GitHub\Learning\WpfBasics\WpfBasics\obj\Debug\App.g.cs
+E:\Code\GitHub\Learning\WpfBasics\WpfBasics\obj\Debug\WpfBasics_MarkupCompile.cache
+E:\Code\GitHub\Learning\WpfBasics\WpfBasics\obj\Debug\WpfBasics_MarkupCompile.lref
+E:\Code\GitHub\Learning\WpfBasics\WpfBasics\obj\Debug\MainWindow.baml
+E:\Code\GitHub\Learning\WpfBasics\WpfBasics\obj\Debug\WpfBasics.g.resources
+E:\Code\GitHub\Learning\WpfBasics\WpfBasics\obj\Debug\WpfBasics.Properties.Resources.resources
+E:\Code\GitHub\Learning\WpfBasics\WpfBasics\obj\Debug\WpfBasics.csproj.GenerateResource.Cache
+E:\Code\GitHub\Learning\WpfBasics\WpfBasics\obj\Debug\WpfBasics.csproj.CoreCompileInputs.cache
+E:\Code\GitHub\Learning\WpfBasics\WpfBasics\obj\Debug\WpfBasics.exe
+E:\Code\GitHub\Learning\WpfBasics\WpfBasics\obj\Debug\WpfBasics.pdb
